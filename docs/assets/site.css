@@ -644,3 +644,7 @@ form.rf { display: grid; grid-template-columns: 1fr 1fr; gap: 34px 28px; margin-
   .js .rv-img img, .js .hero .bg img { transform: none !important; }
   @view-transition { navigation: none; }
 }
+
+/* project overview refinements */
+.pd-over .body { justify-items: start; align-content: start; }
+.pd-over .body p.statement { font-size: clamp(1.7rem, 2.7vw, 2.8rem); line-height: 1.16; font-weight: 400; color: var(--ink); max-width: 22em; }
