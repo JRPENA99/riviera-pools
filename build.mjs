@@ -225,7 +225,7 @@ pages["index.html"] = layout({
   <div class="content">
     <div class="wrap">
       <div>
-        <span class="eyebrow rv">Riviera Custom Pools · Houston, Texas</span>
+        <span class="eyebrow rv"><span class="hide-sm">Riviera Custom Pools ·&nbsp;</span>Houston, Texas</span>
         <h1 class="display">${lines("Pools built to a", "<em>hospitality</em>", "standard.")}</h1>
       </div>
       <div class="side rv rv-d2">
